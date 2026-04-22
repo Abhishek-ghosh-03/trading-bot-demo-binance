@@ -61,3 +61,20 @@ Validation Rules
 - `order_type`: Must be `MARKET` or `LIMIT`
 - `quantity`: Must be a > 0
 - `price`: Required if `order_type` is `LIMIT`, must be a positive number
+
+-> Buying
+---------------
+<img width="1262" height="954" alt="Screenshot 2026-04-22 123813" src="https://github.com/user-attachments/assets/702c8181-de2a-4029-bbac-e168cb8c32fe" />
+
+-> Virtual Env
+---------------
+<img width="1251" height="430" alt="Screenshot 2026-04-22 124012" src="https://github.com/user-attachments/assets/9b99c030-4e5b-43fc-8405-5336248a358c" />
+
+-> logs ss
+---------------
+<img width="1256" height="422" alt="Screenshot 2026-04-22 124205" src="https://github.com/user-attachments/assets/d0f00682-a7a6-4ad7-af14-8c1029e34e28" />
+
+-> Selling
+---------------
+<img width="1492" height="906" alt="Screenshot 2026-04-22 124114" src="https://github.com/user-attachments/assets/39a3a129-2c70-4c2c-aa7f-f88eee670f31" />
+
